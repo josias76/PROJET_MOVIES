@@ -1,0 +1,22 @@
+# Fichiers python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de logs 
+*.log
+
+# Fichiers de la configuration d'environnement local
+.env 
+
+# Répertoire Git 
+.git 
+.gitignore 
+
+# Fichiers Systèmes 
+.DS_Store
+
+# Cache pip ou projet_movie
+.projet_movie/
+projet_movie/
+pip-wheel-metadata/

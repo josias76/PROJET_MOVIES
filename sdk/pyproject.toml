@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "filmsjnm"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="[Josias nteme]" },
 ]
 description = "SDK Python pour accéder à l’API MovieLens (Data Analysts)"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Programming Language :: Python :: 3",
